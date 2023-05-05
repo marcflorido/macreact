@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/macreact/static/css/main.259f0314.css",
+    "main.js": "/macreact/static/js/main.cbbb609e.js",
+    "static/js/787.272b05c2.chunk.js": "/macreact/static/js/787.272b05c2.chunk.js",
+    "index.html": "/macreact/index.html",
+    "main.259f0314.css.map": "/macreact/static/css/main.259f0314.css.map",
+    "main.cbbb609e.js.map": "/macreact/static/js/main.cbbb609e.js.map",
+    "787.272b05c2.chunk.js.map": "/macreact/static/js/787.272b05c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259f0314.css",
+    "static/js/main.cbbb609e.js"
+  ]
+}
